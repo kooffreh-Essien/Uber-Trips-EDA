@@ -28,7 +28,9 @@ The dataset used for this project was gotten from Kaggle.
 
 
 ## 🛠 Skills
-- Python 
-- SQL
 - Power BI
+- SQL
+- Python
+- Machine Learning
+
 
